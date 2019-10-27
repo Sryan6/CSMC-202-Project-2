@@ -1,0 +1,390 @@
+1Up,Life,Mushroom
+Air,,
+Airplane,Metal,Bird
+Albert Einstein,Scientist,Energy
+Alcohol,Fire,Water
+Alcoholic,Man,Beer
+Algae,Life,Water
+Alien,Star,Life
+Aluminum,Airplane,Metal
+Ambulance,Hospital,Car
+Aquarium,Glass,Fish
+Arable,Earth,Tool
+Arms,Metal,Tool
+Ash,Fire,Lava
+Ash Tray,Ash,Glass
+Assassin,Man,Poisoned Weapons
+Australia,Kangaroo,Country
+Avian Flu,Flu,Bird
+Baby,Sex,Life
+Bacon,Fire,Pig
+Bacteria,Life,Swamp
+Bar,Brick House,Beer
+Barbecue,Fire,Meat
+Bat,Bird,Vampire
+Batman,Bat,Man
+Beach,Water,Sand
+Bear,Beast,Forest
+Beast,Earth,Lizard
+Beaver,Dam,Beast
+Bee,Flower,Beetle
+Beer,Alcohol,Wheat
+Beetle,Worm,Earth
+Beetroot,Sugar,Seed
+Belarus,Tractor,Country
+Berry,Grass,Fruit
+Bicycle,Wheel,Wheel
+Bird,Air,Egg
+Bitumen,Kerogen,Pressure
+Blood,Beast,Beast
+Boat,Water,Wood
+Boiler,Metal,Steam
+Book,Paper,Man
+Borscht,Beetroot,Fire
+Bow,Robin Hood,Arms
+Bread,Dough,Fire
+Brick,Clay,Fire
+Brick House,Brick,Concrete
+Butterfly,Air,Worm
+C3PO,Gold,Robot
+Cactus,Desert,Tree
+Camel,Beast,Desert
+Cancer,Man,Tobacco
+Car,Cart,Combustion Engine
+Caramel,Sugar,Fire
+Carbon Dioxide,Oxygen,Man
+Carmine,Cochineal,Fire
+Cart,Wheel,Wood
+Cat,Yarn,Beast
+Cat-dog,Cat,Dog
+Caviar,Fish,Fish
+Cement,Clay,Limestone
+Cemetery,Grave,Grave
+Ceramics,Man,Clay
+Champagne,Wine,Soda Water
+Chariot,Warrior,Cart
+Cheese,Quark,Fire
+Chicken,Egg,Life
+China,Country,Dragon
+Chocolate,Cocoa,Sugar
+Christmas Tree,Tree,Light-bulb
+Cigarettes,Paper,Tobacco
+City,Skyscraper,Skyscraper
+Clay,Sand,Swamp
+Clock,Time,Tool
+Cloth,Wool,Tool
+Clothing,Man,Cloth
+Cloud,Air,Steam
+Coal,Fire,Tree
+Coca-Cola,Soda Water,Carmine
+Cochineal,Cactus,Beetle
+Cocoa,Seed,Mexico
+Coffin,Corpse,Wood
+Coin,Money,Metal
+Combustion Engine,Steam Engine,Gasoline
+Concrete,Cement,Water
+Continent,Country,Country
+Copper,Metal,Gold
+Corpse,Fire,Man
+Country,City,City
+Crop Circles,UFO,Arable
+Dam,Brick,Water
+Desert,Sand,Sand
+Diamond,Uncut Diamond,Tool
+Diet,Man,Yogurt
+Dilemma,Chicken,Egg
+Dinosaur,Earth,Egg
+Doctor,Hospital,Scientist
+Dog,Wolf,Man
+Dough,Flour,Water
+Dr. Zoidberg,Doctor,Alien
+Dragon,Fire,Pterodactyl
+Dust,Air,Earth
+E-Book,Microchip,Book
+Earth,,
+Ectoplasm,Ghost,Energy
+Egg,Life,Stone
+Egypt,Country,Mummy
+Electric Eel,Snake,Electricity
+Electric Ray,Fish,Electricity
+Electricity,Energy,Metal
+Elephant,India,Beast
+Energy,Air,Fire
+Ent,Tree,Life
+Explosion,Fire,Gasoline
+Faberge Egg,Egg,Diamond
+Farmer,Man,Seed
+Fat,Pig,Pig
+Feather,Bird,Hunter
+Fern,Moss,Swamp
+Finland,Sauna,Country
+Fire,,
+Fire Elemental,Fire,Life
+Firearms,Arms,Gunpowder
+Firefighter,Hero,Fire
+Firefly,Light,Beetle
+Fish,Bacteria,Plankton
+Fisherman,Hunter,Fish
+Flour,Wheat,Stone
+Flower,Water,Seed
+Flu,Air,Bacteria
+Fondue,Cheese,Fire
+Forest,Grove,Grove
+Fossil,Dinosaur,Earth
+France,Champagne,Country
+Frankenstein,Corpse,Electricity
+Fried Chicken,Fire,Chicken
+Frog,Lizard,Swamp
+Fruit,Tree,Farmer
+Fugu,Fish,Poison
+Gasoline,Petroleum,Pressure
+Genie,Lamp,Ghost
+Germany,VW Beetle,Country
+Geyser,Steam,Earth
+Ghost,Ash,Life
+Ghost-busters,Ghost,Hunter
+Glass,Fire,Sand
+Gold,Philosophers Stone,Metal
+Golem,Clay,Life
+Grape,Earth,Wood
+Grass,Earth,Moss
+Grave,Earth,Corpse
+Grove,Tree,Tree
+Gunpowder,Dust,Fire
+Hen Coop,Chicken,Hut
+Hero,Dragon,Warrior
+Honey,Bee,Flower
+Hospital,Sick,Brick House
+Hot Chocolate,Fire,Chocolate
+Hourglass,Sand,Glass
+House MD,Man,Vicodin
+Hunter,Arms,Man
+Hut,Man,Stone
+Hydrogen,Water,Electricity
+Ice,Water,Glass
+Iceland,Ice,Country
+Idea,Man,Light-bulb
+India,Kama Sutra,Country
+Iodine,Algae,Fire
+iPhone,Fruit,Phone
+Island,Volcano,Sea
+Italy,Pizza,Country
+Japan,Sushi,Country
+Jedi,Hero,Light-saber
+Juice,Fruit,Pressure
+Kama Sutra,Book,Sex
+Kangaroo,Frog,Beast
+Kerogen,Fossil,Pressure
+Kilt,Scotland,Clothing
+Knife,Meat,Tool
+Lamp,Fire,Glass
+Lance Armstrong,Cancer,Bicycle
+Lava,Earth,Fire
+Lava Golem,Life,Lava
+Lava Lamp,Lava,Lamp
+Lawnmower,Grass,Tool
+Leech,Blood,Worm
+Library,Book,Book
+Lichen,Mushroom,Algae
+Life,Energy,Swamp
+Light,Electricity,Light-bulb
+Light-bulb,Electricity,Glass
+Light-saber,Arms,Light
+Lighthouse,Skyscraper,Light
+Lightning Rod,Thunderstorm,Metal
+Lime,Fire,Limestone
+Limestone,Stone,Shells
+Livestock,Beast,Man
+Lizard,Snake,Worm
+Lobster,Scorpion,Water
+Locomotive,Cart,Steam Engine
+Man,Golem,Life
+Manure,Grass,Livestock
+Mario,1Up,Man
+McDonalds,Coca-Cola,Sandwich
+Meat,Beast,Hunter
+Mentos,Coca-Cola,Geyser
+Mermaid,Woman,Fish
+Metal,Fire,Stone
+Metal Golem,Metal,Life
+Mexico,Tequila,Country
+Microchip,Transistor,Transistor
+Milk,Livestock,Man
+Mirror,Aluminum,Glass
+Mite,Life,Dust
+Mold,Mushroom,Mud
+Molotov Cocktail,Fire,Alcohol
+Money,Gold,Paper
+Moon,Cheese,Sky
+Moss,Swamp,Algae
+Motorboat,Boat,Combustion Engine
+Motorcycle,Combustion Engine,Bicycle
+Mouse,Cheese,Beast
+Mud,Dust,Water
+Mummy,Corpse,Paper
+Museum,Brick House,Fossil
+Mushroom,Earth,Algae
+Music,Sound,Idea
+Obesity,Man,McDonalds
+Old Man,Man,Time
+Omelet,Egg,Fire
+Oxygen,Steam,Electricity
+Oxyhydrogen,Oxygen,Hydrogen
+Ozone,Oxygen,Electricity
+Panda,Tree,Beast
+Paper,Wood,Pressure
+Pearl,Sand,Shells
+Peat,Swamp,Pressure
+Penguin,Ice,Bird
+Penicillin,Mold,Scientist
+Perfume,Flower,Alcohol
+Petri Dish,Glass,Bacteria
+Petroleum,Bitumen,Pressure
+Philosophers Stone,Philosophy,Stone
+Philosophy,Dilemma,Scientist
+Phoenix,Bird,Fire
+Phone,Sound,Wire
+Pie,Berry,Dough
+Pig,Livestock,Mud
+Piggy Bank,Ceramics,Coin
+Pillow,Feather,Cloth
+Pinocchio,Wood,Life
+Pizza,Cheese,Dough
+Planet,Continent,Continent
+Plankton,Bacteria,Water
+Plesiosaurus,Dinosaur,Water
+Poison,Snake,Tool
+Poisoned Weapons,Arms,Poison
+Pressure,Earth,Earth
+Prisoner,Assassin,Time
+Pterodactyl,Air,Dinosaur
+Quark,Soured Milk,Fire
+Quetzalcoatl,Snake,Bird
+R2D2,Robot,Star-wars
+Rain,Water,Cloud
+Rainbow,Steam,Light
+Reed,Grass,Swamp
+Robin Hood,Forest,Hero
+Robot,Metal Golem,Electricity
+Romania,Transylvania,Country
+Ruby,Blood,Diamond
+Russia,Vodka,Country
+Rust,Water,Metal
+Sailboat,Boat,Cloth
+Sailing Ship,Cloth,Wooden Ship
+Sailor,Boat,Man
+Salamander,Fire,Lizard
+Salo,Man,Pig
+Salt,Sea,Fire
+Saltpeter,Limestone,Manure
+Sand,Stone,Water
+Sandstorm,Storm,Sand
+Sandwich,Meat,Bread
+Santa Claus,Old Man,Christmas Tree
+Saudi Arabia,Petroleum,Country
+Sauna,Steam,Hut
+Scarab,Beetle,Manure
+Scientist,Man,Library
+Scissors,Knife,Knife
+Scorpion,Beetle,Sand
+Scotch Whiskey,Alcohol,Peat
+Scotland,Scotch Whiskey,Country
+Sea,Water,Water
+Seed,Life,Sand
+Sex,Man,Woman
+Sex in the City,Sex,City
+Shells,Plankton,Stone
+Sick,Man,Flu
+Silicon,Pressure,Sand
+Silk,Cloth,Worm
+Silver,Moon,Metal
+Sith,Jedi,Assassin
+Sky,Air,Cloud
+Skyscraper,Brick House,Glass
+Smoke,Fire,Tobacco
+Snail,Shells,Worm
+Snake,Swamp,Worm
+Sniper,Assassin,Firearms
+Soap,Ash,Fat
+Soda Water,Carbon Dioxide,Water
+Soldier,Firearms,Man
+Sound,Metal,Wind
+Soured Milk,Milk,Yogurt
+Spinning Wheel,Wheel,Wool
+Stake,Wood,Knife
+Star,Sun,Scientist
+Star-wars,Jedi,Sith
+Statue,Stone,Tool
+Statue of Liberty,USA,Statue
+Steam,Air,Water
+Steam Engine,Boiler,Coal
+Steamer,Steam Engine,Wooden Ship
+Stone,Air,Lava
+Storm,Air,Energy
+Sugar,Lime,Reed
+Sulfur,Bacteria,Swamp
+Sun,Sky,Chariot
+Sunflower,Sun,Flower
+Sushi,Fish,Algae
+Swamp,Earth,Water
+Sweater,Yarn,Tool
+Swine Flu,Pig,Flu
+Swiss Army Knife,Switzerland,Knife
+Switzerland,Clock,Country
+Team,Beast,Cart
+Tequila,Alcohol,Worm
+The Beetles,Beetle,Beetle
+Thread,Spinning Wheel,Yarn
+Thunderbird,Bird,Storm
+Thunderstorm,Storm,Electricity
+Time,Life,Hourglass
+Toast,Fire,Bread
+Tobacco,Fire,Grass
+Tool,Man,Metal
+Totoro,Forest,Ghost
+Tractor,Lawnmower,Arable
+Transformers,Life,Car
+Transistor,Silicon,Metal
+Transylvania,Vampire,Country
+Tree,Earth,Seed
+Turtle,Egg,Sand
+Twilight Saga,Vampire,Werewolf
+Typhoon,Water,Storm
+UFO,Airplane,Alien
+Ukraine,Salo,Country
+Uncut Diamond,Coal,Pressure
+Undead,Corpse,Zombie
+United Kingdom,The Beetles,Country
+USA,McDonalds,Country
+Vampire,Blood,Man
+Venice,City,Water
+Venus,Woman,Planet
+Vicodin,Sick,Doctor
+Vinegar,Alcohol,Oxygen
+Vodka,Alcohol,Water
+Volcano,Lava,Pressure
+Vulture,Corpse,Bird
+VW Beetle,Car,Beetle
+Warrior,Arms,Hunter
+Water,,
+Weevil,Flour,Beetle
+Werewolf,Beast,Vampire
+Whale,Beast,Water
+Wheat,Arable,Seed
+Wheel,Wood,Tool
+Whey,Milk,Fire
+Wind,Air,Air
+Wine,Grape,Alcohol
+Wire,Copper,Thread
+Wolf,Werewolf,Moon
+Woman,Perfume,Flower
+Wood,Tree,Tool
+Wooden Ship,Boat,Wood
+Wool,Beast,Tool
+Worm,Earth,Plankton
+Yarn,Spinning Wheel,Wool
+Yoda,Jedi,Swamp
+Yogurt,Bacteria,Milk
+Yoshi,1Up,Egg
+Zombie,Corpse,Life
+Zoo,Beast,Museum
